@@ -1,16 +1,32 @@
-# React + Vite
+# 📝 React Todo App (Practice Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A **simple and elegant Todo App** built with **React** and **Material UI**, designed for **practice and learning purposes**.  
+This project demonstrates the use of **React hooks (`useState`, `useEffect`)**, **API integration**, and **component-based architecture**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> **Note:** This is a **practice project**. Todos are fetched from a public API (`https://dummyjson.com/todos`) and do **not support adding or removing tasks manually**. It is built to showcase React functionality, clean UI design, and API handling.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Fetches a list of todos from a **public API**  
+- Displays todos using **Material UI Cards**  
+- View detailed information of each todo in a **Material UI Dialog**  
+- Shows **loading skeletons** while fetching data  
+- Clean and responsive layout using **CSS Grid**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React** (Functional Components + Hooks)  
+- **Material UI** (Cards, Buttons, Dialogs, Skeletons)  
+- **CSS Modules** for scoped styling  
+- **Fetch API** for asynchronous data handling  
+
+---
+
+
+
+
