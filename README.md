@@ -27,6 +27,9 @@ This project demonstrates the use of **React hooks (`useState`, `useEffect`)**, 
 
 ---
 
+## 🌐 Live Demo
+
+Check it out: [Live Demo]([https://react-todo-app-<yourname>.vercel.app](https://simple-react-todo-list-two.vercel.app/))
 
 
 
